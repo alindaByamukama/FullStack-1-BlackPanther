@@ -32,7 +32,7 @@ team members.)
 A large percentage of pregnant women have limited access to medical services, this leads to
 many pregnant women suffering from various complications that end up harming the unborn child and the mother.
 
-<b>Project Name:</b> Baby and Me. 
+<b>Project Name:</b> Baby and Me. (Access site<a href="https://babyandme.netlify.app/" target="_blank"> here</a> or <a href="https://baby-and-me.netlify.app/" target="_blank">here</a>.)
 <br>
 
 <b>Project Description:</b> A platform where pregnant women can obtain online consultations and 
